@@ -185,10 +185,14 @@
 }
 .footer { 
     background: rgb(234, 234, 239);
-    font-size: 2rem;
+    font-size: 1.rem;
     color: #5f5c60;
     text-align: center;
-    padding: 2rem 0;
+    padding: 1rem 0;
+}
+.projects iframe{
+width: 100%;
+  margin-top: 1rem;
 }
 .contact {
     background: linear-gradient(rgb(227, 242, 253), rgb(255, 255, 255));
