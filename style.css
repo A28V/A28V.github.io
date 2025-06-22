@@ -221,10 +221,16 @@ width: 100%;
   .skill-block{
     
     margin-top: 4rem;
+	background : url('images/thankyou.jpg')
   }
   .skill-block a{
-    color:#00C853;
+        color: inherit;
   
+  }
+  .contact .list-disc{
+	  background: #ebf6fd;
+    list-style: none;
+    text-align: center;
   }
   .contact h1{
     padding-top:2rem;
@@ -247,7 +253,10 @@ width: 100%;
     width: 100%;
     max-width: unset;
   }
-
+  .contact-thankyou img{
+	      width: 100%;
+    margin-top: 20px;
+  }
   /* header main title*/
   .typed-text {
     font-weight: bold;
