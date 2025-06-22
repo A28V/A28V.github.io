@@ -271,6 +271,7 @@ width: 100%;
 	      font-size: 12px;
 		      background: #ffffff;
     padding: 10px 15px;
+	display: flex;
 
   }
   .project_title{
